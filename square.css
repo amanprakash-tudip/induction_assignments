@@ -1,0 +1,22 @@
+.square 
+	{ 
+		position:relative;
+		margin-left:40%;
+		margin-top:18%;
+		width: 100px;
+		height: 100px;
+		background: #b642f4;
+		border: 2px solid black;
+		padding: 20px;
+	}
+h1
+	{
+		color: #b6f442;
+		text-align: center;
+	}
+.texts
+	{
+		color: white;
+		text-align: center;
+		
+	}
